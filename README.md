@@ -544,9 +544,9 @@ Contributions are welcome! Please follow these steps:
 
 ## 👤 Author
 
-**Dhruv Singhal**
+**Vishnu Singh**
 - GitHub: [@singhvis](https://github.com/singhvis)
-- Project: [Adaptive RAG](https://github.com/dhruvsinghal09/Adaptive-Rag)
+
 
 ---
 
