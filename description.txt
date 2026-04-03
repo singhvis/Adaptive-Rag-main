@@ -1,0 +1,3 @@
+**Tool Instruction:**
+
+This tool is designed to answer your questions **solely based on the content you have uploaded.** Please provide a question, and I will attempt to find the relevant information within the uploaded document to respond to it.  I cannot access external websites or knowledge bases – my answers are limited to what’s contained in the uploaded material.
